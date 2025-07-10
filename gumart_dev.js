@@ -19,6 +19,8 @@ getConfig = function () {
     }
 }
 
+let toandev = "dz";
+
 let config = getConfig();
 let timeRun = config.timeRerun;
 let tat_bat_taks = config.isTaks;
