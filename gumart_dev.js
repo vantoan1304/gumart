@@ -19,7 +19,7 @@ getConfig = function () {
     }
 }
 
-let toandev = "dz";
+let toandev = "dzzzfdf";
 
 let config = getConfig();
 let timeRun = config.timeRerun;
